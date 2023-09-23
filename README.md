@@ -4,9 +4,6 @@
 
 ### For this project, I had to create an interactive Bash program that uses PostgreSQL to track the customers and appointments of a salon.
 
-:brazil: Para este projeto, tive que criar um programa Bash interativo que usa o PostgreSQL para rastrear os clientes e compromissos de um salão.
-
-
 **Complete the tasks below**
 
 :heavy_check_mark: You should create a database named salon
